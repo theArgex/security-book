@@ -1,12 +1,17 @@
 # Table of contents
 
 * [Home](README.md)
-* [Tools/Links](tools/README.md)
-  * [Malware](tools/malware.md)
-  * [SSL](tools/ssl.md)
-  * [Server](tools/server.md)
 
-## Kompetenzen Checks
+## Security
+
+* [Tools/Links](security/tools/README.md)
+  * [Malware](security/tools/malware.md)
+  * [SSL](security/tools/ssl.md)
+  * [Server](security/tools/server.md)
+
+## German - Kompetenzen Checks <a id="kompetenzen-checks"></a>
 
 * [Basissicherheit implementieren](kompetenzen-checks/basissicherheit-implementieren.md)
+* [Fallstudie - Webhoster Domains](kompetenzen-checks/fallstudie-webhoster-domains.md)
+* [Untitled](kompetenzen-checks/untitled.md)
 
