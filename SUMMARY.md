@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Home](README.md)
 * [Tools/Links](tools/README.md)
   * [Malware](tools/malware.md)
   * [SSL](tools/ssl.md)
