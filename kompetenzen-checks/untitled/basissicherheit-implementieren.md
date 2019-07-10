@@ -2,7 +2,7 @@
 
 ### Aufgabe 1
 
-![](../.gitbook/assets/chrome_2019-07-10_17-54-44.png)
+![](../../.gitbook/assets/chrome_2019-07-10_17-54-44.png)
 
 Der Fahrer versucht eine SQL Injection zu begehen
 

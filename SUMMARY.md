@@ -11,7 +11,8 @@
 
 ## German - Kompetenzen Checks <a id="kompetenzen-checks"></a>
 
-* [Basissicherheit implementieren](kompetenzen-checks/basissicherheit-implementieren.md)
-* [Fallstudie - Webhoster Domains](kompetenzen-checks/fallstudie-webhoster-domains.md)
-* [Untitled](kompetenzen-checks/untitled.md)
+* [Fallstudien](kompetenzen-checks/fallstudien/README.md)
+  * [Webhoster Domains](kompetenzen-checks/fallstudien/fallstudie-webhoster-domains.md)
+* [Checks](kompetenzen-checks/untitled/README.md)
+  * [Basissicherheit implementieren](kompetenzen-checks/untitled/basissicherheit-implementieren.md)
 

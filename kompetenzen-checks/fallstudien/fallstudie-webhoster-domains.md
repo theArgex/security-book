@@ -1,4 +1,4 @@
-# Fallstudie - Webhoster Domains
+# Webhoster Domains
 
 #### **Eintrag 1**
 
