@@ -6,3 +6,7 @@
   * [SSL](tools/ssl.md)
   * [Server](tools/server.md)
 
+## Kompetenzen Checks
+
+* [Basissicherheit implementieren](kompetenzen-checks/basissicherheit-implementieren.md)
+
