@@ -15,6 +15,7 @@
   * [Insecure Deserialization](security/owasp-top-10/insecure-deserialization.md)
   * [Using Components with Known Vulnerabilities](security/owasp-top-10/using-components-with-known-vulnerabilities.md)
   * [Insufficient Logging and Monitoring](security/owasp-top-10/insufficient-logging-and-monitoring.md)
+* [Secure Passwords](security/secure-passwords.md)
 * [Tools/Links](security/tools/README.md)
   * [Malware](security/tools/malware.md)
   * [SSL](security/tools/ssl.md)
